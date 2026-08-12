@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /tesekkurler.html
+
+Sitemap: https://incelemelerini-satin-al.com/sitemap.xml
